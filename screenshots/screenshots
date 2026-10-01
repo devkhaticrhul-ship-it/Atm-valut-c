@@ -1,0 +1,182 @@
+========================================
+              ATM//VAULT
+       SECURE BANKING SIMULATOR
+========================================
+          Welcome to the ATM
+========================================
+
+========================================
+             ATM//VAULT
+          SECURE LOGIN
+========================================
+Enter your 4-digit PIN: 1111
+Incorrect PIN. Attempts remaining: 2
+Enter your 4-digit PIN: 1234
+
+Authentication successful.
+Welcome, Rahul Kumar!
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 1
+
+========================================
+           ACCOUNT BALANCE
+========================================
+Account Number : 10010001
+Available Balance : Rs. 25000.00
+========================================
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 6
+
+========================================
+           ACCOUNT PROFILE
+========================================
+Account Holder : Rahul Kumar
+Account Number : 10010001
+Balance        : Rs. 25000.00
+Daily Withdraw : Rs. 0.00 / Rs. 20000.00
+========================================
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 4
+
+========================================
+           MINI STATEMENT
+========================================
+No transactions available.
+========================================
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 2
+
+========================================
+            CASH WITHDRAWAL
+========================================
+Enter amount to withdraw: Rs. 300
+
+Withdrawal successful.
+Amount withdrawn : Rs. 300.00
+Remaining balance: Rs. 24700.00
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 3
+
+========================================
+             CASH DEPOSIT
+========================================
+Enter amount to deposit: Rs. 3001
+
+Deposit successful.
+Amount deposited : Rs. 3001.00
+New balance      : Rs. 27701.00
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 5
+
+========================================
+              CHANGE PIN
+========================================
+Enter current PIN: 1111
+
+Incorrect current PIN.
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+========================================
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Mini Statement
+5. Change PIN
+6. Account Profile
+7. Exit
+========================================
+Enter your choice: 5
+
+========================================
+              CHANGE PIN
+========================================
+Enter current PIN: 1234
+Enter new 4-digit PIN: 1111
+Confirm new PIN: 1111
+
+PIN changed successfully.
+
+Press ENTER to continue...
+
+========================================
+              ATM MAIN MENU
+==========
